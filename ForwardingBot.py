@@ -11,7 +11,6 @@ from app_settings import AppSettings
 main_router = Router()
 bot = Bot(token=AppSettings().token)
 
-
 @main_router.message(CommandStart())
 async def start_command_handler(message: Message):
     pass
