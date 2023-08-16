@@ -41,6 +41,7 @@
     </Interpreter>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="config.yml" />
     <Content Include="config.yml.origin" />
   </ItemGroup>
   <ItemGroup>
