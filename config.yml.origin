@@ -1,4 +1,12 @@
 token: <Bot token>
 main_channel_id: <ID of channel>
-group_ids: <list of group IDs>
-usernames: <List of usernames (without @)>
+group_ids: 
+    - <Group ID 1>
+    - <Group ID 2>
+    ...
+    - <Group ID N>
+usernames: 
+    - <Username 1>
+    - <Username 2>
+    ...
+    - <Username N>
