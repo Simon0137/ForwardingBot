@@ -47,10 +47,10 @@ If you don't know id of your channel, where you want to post, then this bot can 
 4. Click on this ID and paste in field `main_channel_id` in `config.yml`
 ### Group IDs
 There is the almost same thing with groups, where you want to forward your posts:
-1. Go to BotFather and check in Bot Settings, that Group Privasy is **disabled**
+1. Go to BotFather and check in Bot Settings, that Group Privacy is **disabled**
 2. Add the bot to groups you want
 3. Write and send in group "/get_group_id"
-4. Bot returns a group ID
+4. Bot returns to you the group ID
 5. Click in this ID and paste in field `group_ids` in `config.yml` as list element (check the example in `config.yml.origin`)
 ### Usernames
 Field `usernames` is needed so that bot knows which users it should accept posts from.
